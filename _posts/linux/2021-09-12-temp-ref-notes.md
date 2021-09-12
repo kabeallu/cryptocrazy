@@ -22,12 +22,12 @@ echo "first statement" > file1.txt
 <div id="disqus_thread"></div>
 <script>
 
-    /*
+
     var disqus_config = function () {
     this.page.url = https://cryptocrazy.co.nz ;  // Replace PAGE_URL with your page's canonical URL variable
     this.page.identifier = page.title ; // Replace PAGE_IDENTIFIER with your page's unique identifier variable
     };
-    */
+  
     (function() { // DON'T EDIT BELOW THIS LINE
     var d = document, s = d.createElement('script');
     s.src = 'https://cryptocrazy.disqus.com/embed.js';
