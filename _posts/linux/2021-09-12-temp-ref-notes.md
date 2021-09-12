@@ -11,7 +11,9 @@ tags: []
 #  alt: cap
 ---
 
-
+```
 echo "first statement" > file1.txt
-
+```
+```
 <command> | tee -a <file_name>
+```
