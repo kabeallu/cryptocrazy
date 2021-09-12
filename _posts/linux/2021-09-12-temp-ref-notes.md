@@ -4,6 +4,8 @@ date: 2021-07-26
 categories: [linux, guides]
 tags: []
 
+comments: true
+
 #image:
 #  src: /assets/img/hackthebox/boxes/cap/cap-box.png
 #  width: 600   # in pixels
@@ -24,17 +26,16 @@ echo "first statement" > file1.txt
 <div id="disqus_thread"></div>
 <script>
 
-    var disqus_config = function () {
-    this.page.url = cryptocrazy.co.nz ;  // Replace PAGE_URL with your page's canonical URL variable
-    this.page.identifier = page.title ; // Replace PAGE_IDENTIFIER with your page's unique identifier variable
-    };
+    (function() {  // REQUIRED CONFIGURATION VARIABLE: EDIT THE SHORTNAME BELOW
+        var d = document, s = d.createElement('script');
 
-    (function() { // DON'T EDIT BELOW THIS LINE
-    var d = document, s = d.createElement('script');
-    s.src = 'https://cryptocrazy.disqus.com/embed.js';
-    s.setAttribute('data-timestamp', +new Date());
-    (d.head || d.body).appendChild(s);
+        s.src = '//cryptocrazy.disqus.com/embed.js';  // IMPORTANT: Replace EXAMPLE with your forum shortname!
+
+        s.setAttribute('data-timestamp', +new Date());
+        (d.head || d.body).appendChild(s);
     })();
 </script>
-<noscript>Please enable JavaScript to view the <a href="https://disqus.com/?ref_noscript">comments powered by Disqus.</a></noscript>
+<noscript>Please enable JavaScript to view the <a href="https://disqus.com/?ref_noscript" rel="nofollow">comments powered by Disqus.</a></noscript>
+
+
 {% endif %}
