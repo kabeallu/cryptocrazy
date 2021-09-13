@@ -11,8 +11,7 @@ tags: []
 #  alt: cap
 
 # files
-  pdf_local: "/assets/pdf/2021-NZHC-1107.pdf
-"
+  pdf_local: "/assets/pdf/2021-NZHC-1107.pdf"
 ---
 
 ## Notes and links throwing together for latter use
