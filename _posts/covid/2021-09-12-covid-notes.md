@@ -9,6 +9,10 @@ tags: []
 #  width: 600   # in pixels
 #  height: 300   # in pixels
 #  alt: cap
+
+# files
+  pdf_local: "/assets/pdf/2021-NZHC-1107.pdf
+"
 ---
 
 ## Notes and links throwing together for latter use
@@ -23,4 +27,7 @@ https://www.medsafe.govt.nz/
 
 https://kti.org.nz/
 
+
+
+{% pdf {{ page.pdf_local }} width=50% height=1000px %}
 
