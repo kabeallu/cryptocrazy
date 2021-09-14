@@ -24,7 +24,7 @@ https://www.medsafe.govt.nz/
 https://kti.org.nz/
 https://www.realinsight.kiwi/
 
-
+https://t.me/s/nzdsos
 https://odysee.com/@voicesforfreedom:6/Julius-Ruechel-The-Emperor-Has-No-Clothes:3?r=H6hnBz8UEMJtzuLc9DL4oMauhhAQQSM6
 
 {% pdf "/assets/pdf/2021-NZHC-1107.pdf" width=100% height=800px no_link %}
