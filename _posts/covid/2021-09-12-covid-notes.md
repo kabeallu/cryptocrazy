@@ -25,5 +25,5 @@ https://kti.org.nz/
 
 
 
-{% pdf "/assets/pdf/2021-NZHC-1107.pdf" width=90% height=800px %}
+{% pdf "/assets/pdf/2021-NZHC-1107.pdf" width=100% height=800px no_link %}
 
