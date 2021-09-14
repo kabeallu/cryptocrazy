@@ -1,7 +1,7 @@
 ---
 title: Covid Notes
 date: 2021-09-12
-categories: []
+categories: [covid]
 tags: []
 
 #image:
@@ -25,5 +25,5 @@ https://kti.org.nz/
 
 
 
-{% pdf "/assets/pdf/2021-NZHC-1107.pdf" width=50% height=1000px %}
+{% pdf "/assets/pdf/2021-NZHC-1107.pdf" width=90% height=800px % jjj}
 
