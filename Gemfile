@@ -3,9 +3,11 @@ source "https://rubygems.org"
 gem "jekyll-theme-chirpy", "~> 4.1", ">= 4.1.1"
 
 group :jekyll_plugins do
+  gem "jekyll-pdf-embed"
   # If you have any plugins, put them here!
   # gem "jekyll-xxx", "~> x.y"
 end
+
 
 group :test do
   gem "html-proofer"
