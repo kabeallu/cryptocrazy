@@ -84,7 +84,7 @@ avatar: https://raw.githubusercontent.com/kabeallu/karl/gh-pages/assets/img/favi
 toc: true
 
 disqus:
-  comments: true
+  comments: false
   shortname: 'cryptocrazy'
 
 paginate: 10
