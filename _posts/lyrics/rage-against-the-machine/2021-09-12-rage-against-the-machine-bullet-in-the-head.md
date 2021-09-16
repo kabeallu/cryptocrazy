@@ -1,7 +1,7 @@
 ---
 title: Rage Against The Machine - Bullet In The Head
 date: 2021-09-12
-categories: [lyrics, rock]
+categories: [lyrics, rock, rage against the machine]
 tags: []
 
 #image:
