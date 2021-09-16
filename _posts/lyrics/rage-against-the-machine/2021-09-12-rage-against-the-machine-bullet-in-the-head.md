@@ -6,7 +6,7 @@ tags: []
 
 image:
   src: /assets/img/lyrics/rage-against-the-machine/cover.jpg
-  width: 600   # in pixels
+  width: 300   # in pixels
   height: 300   # in pixels
   alt: rage against the machine
 ---
