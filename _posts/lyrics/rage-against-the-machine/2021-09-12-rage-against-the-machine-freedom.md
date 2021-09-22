@@ -1,14 +1,14 @@
 ---
-title: Rage Against The Machine - Freedom 
+title: Rage Against The Machine - Freedom
 date: 2021-09-12
 categories: [lyrics, rock]
 tags: []
 
-#image:
-#  src: /assets/img/hackthebox/boxes/cap/cap-box.png
-#  width: 600   # in pixels
-#  height: 300   # in pixels
-#  alt: cap
+image:
+  src: /assets/img/lyrics/rage-against-the-machine/cover.jpg
+  width: 300   # in pixels
+  height: 300   # in pixels
+  alt: rage against the machine
 ---
 # Rage Against The Machine
 ## Freedom
