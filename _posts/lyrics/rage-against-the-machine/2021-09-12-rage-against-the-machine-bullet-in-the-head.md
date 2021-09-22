@@ -13,6 +13,8 @@ image:
 # Rage Against The Machine
 ## Bullet In The Head
 
+---
+
 This time the bullet cold rocked ya
 A yellow ribbon instead of a swastika
 Nothin' proper about ya propaganda
