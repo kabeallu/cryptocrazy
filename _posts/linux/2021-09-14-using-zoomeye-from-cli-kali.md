@@ -1,5 +1,5 @@
 ---
-title: Using ZoomEye From The Command Line Interface On Kalie
+title: Using ZoomEye From The Command Line Interface On Kali
 date: 2021-09-14
 categories: [linux, kali]
 tags: []
